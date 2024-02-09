@@ -1,9 +1,26 @@
 # Лабораторная работа №3 - Создание образа с инструкцией ADD
 
+## Содержание
+1. [Создание образа с инструкцией COPY](#создание-образа-с-инструкцией-copy)
+2. [Инструкция COPY в многоэтапных сборках](#инструкция-copy-в-многоэтапных-сборках)
+
+
+## Создание образа с инструкцией COPY
+
 ### Создание Dockerfile
 
-![Dockerfile](/2/img/Dockerfile.png)
+![1.Dockerfile](/3/img/1.Dockerfile.png)
 
 ### Результат
 
-![result](/3/img/result.png)
+![1.result](/3/img/1.result.png)
+
+## Инструкция COPY в многоэтапных сборках
+
+### Создание Dockerfile
+
+![2.Dockerfile](/3/img/2.Dockerfile.png)
+
+### Результат
+
+![2.result](/3/img/2.result.png)
