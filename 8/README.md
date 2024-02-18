@@ -11,6 +11,7 @@
 ![1.Dockerfile](/8/img/1.Dockerfile.png)
 
 ### Результат
+
 ![1.result](/8/img/1.result.png)
 
 ## Передача аргумента во время сборки образа
