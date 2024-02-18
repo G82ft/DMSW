@@ -11,6 +11,7 @@
 ![1.Dockerfile](/9/img/1.Dockerfile.png)
 
 ### Результат
+
 ![1.result](/9/img/1.result.png)
 
 ## Переопределение ENV во время запуска контейнера
