@@ -1,7 +1,5 @@
 # Создание образа со скриптом на питоне
 
-
-
 ### Создание Dockerfile
 
 ![Dockerfile](/pythonScript/img/Dockerfile.png)
