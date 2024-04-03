@@ -6,4 +6,4 @@
 
 ### Результат
 
-![result](img/result.png)
+![result](/compose/img/result.png)
